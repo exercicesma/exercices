@@ -3,8 +3,8 @@ languageCode: en-us
 title: exercices.ma
 theme: PaperMod
 params:
-  defaultTheme: dark
-  disableThemeToggle: true
+  defaultTheme: auto
+  disableThemeToggle: false
 menu:
   main:
      - identifier: 1ac
