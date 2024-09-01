@@ -8,7 +8,7 @@ params:
 menu:
   main:
      - identifier: 1AC
-       name: 1ac
+       name: 1AC
        url: /1ac/
        weight: 1
      - identifier: 2ac
