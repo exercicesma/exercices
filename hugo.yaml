@@ -7,27 +7,27 @@ params:
   disableThemeToggle: false
 menu:
   main:
-     - identifier: 1AC
-       name: 1AC
+     - identifier: 1ac
+       name: 1ac
        url: /1ac/
-       weight: 1
-     - identifier: 2AC
-       name: 2AC
+       weight: 10
+     - identifier: 2ac
+       name: 2ac
        url: /2ac/
-       weight: 2
-     - identifier: 3AC
-       name: 3AC
+       weight: 20
+     - identifier: 3ac
+       name: 3ac
        url: /3ac/
-       weight: 3
-     - identifier: TC
-       name: TC
+       weight: 30
+     - identifier: tc
+       name: tc
        url: /tc/
-       weight: 4
-      - identifier: 1BAC
-       name: 1BAC
+       weight: 40
+      - identifier: 1bac
+       name: 1bac
        url: /1bac/
-       weight: 5
-      - identifier: 2BAC
+       weight: 50
+      - identifier: 2bac
        name: 2bac
        url: /2bac/
-       weight: 6
+       weight: 60
