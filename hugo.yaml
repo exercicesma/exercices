@@ -15,7 +15,7 @@ menu:
        name: 2AC
        url: /2ac/
        weight: 2
-      - identifier: 3AC
+     - identifier: 3AC
        name: 3AC
        url: /3ac/
        weight: 3
@@ -23,11 +23,11 @@ menu:
        name: TC
        url: /tc/
        weight: 4
-       - identifier: 1BAC
+      - identifier: 1BAC
        name: 1BAC
        url: /1bac/
        weight: 5
-     - identifier: 2BAC
+      - identifier: 2BAC
        name: 2bac
        url: /2bac/
        weight: 6
