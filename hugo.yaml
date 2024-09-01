@@ -7,7 +7,7 @@ params:
   disableThemeToggle: false
 menu:
   main:
-     - identifier: 1ac
+     - identifier: 1AC
        name: 1ac
        url: /1ac/
        weight: 1
