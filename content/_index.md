@@ -1,6 +1,6 @@
 ---
 title: " Exercices.ma "
-description: "Welcome to Class 1AC"
+description: "Les exercices de mathematique au Maroc "
 ---
 
 
