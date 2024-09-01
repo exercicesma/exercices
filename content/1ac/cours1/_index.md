@@ -1,7 +1,7 @@
 ---
 title: " cours1"
 description: "Welcome to Class cours1 "
-draft: true
+draft: false
 ---
 
 
