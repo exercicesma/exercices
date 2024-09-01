@@ -2,15 +2,15 @@
 title: " Exercices.ma "
 description: "Les exercices de mathematique au Maroc "
 ---
+# Les exercices de mathematique au Maroc
+[![1ac](../images/1.webp)](/1ac/)  
 
-<a href="/1ac/"><img src="../images/1.webp" alt="1ac" width="200" height="150"></a>
+[![2ac](../images/2.webp)](/2ac/)  
 
-<a href="/2ac/"><img src="../images/2.webp" alt="2ac" width="200" height="150"></a>
+[![3ac](../images/3.webp)](/3ac/) 
 
-<a href="/3ac/"><img src="../images/3.webp" alt="3ac" width="200" height="150"></a>
+[![2ac](../images/4.webp)](/tc/)
 
-<a href="/tc/"><img src="../images/4.webp" alt="2ac" width="200" height="150"></a>
+[![1ac](../images/5.webp)](/1bac/)  
 
-<a href="/1bac/"><img src="../images/5.webp" alt="1ac" width="200" height="150"></a>
-
-<a href="/2bac/"><img src="../images/6.webp" alt="2ac" width="200" height="150"></a>
+[![2ac](../images/6.webp)](/2bac/)  
