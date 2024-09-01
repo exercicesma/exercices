@@ -10,24 +10,9 @@ menu:
      - identifier: 1ac
        name: 1ac
        url: /1ac/
-       weight: 10
+       weight: 1
      - identifier: 2ac
        name: 2ac
        url: /2ac/
-       weight: 20
-     - identifier: 3ac
-       name: 3ac
-       url: /3ac/
-       weight: 30
-     - identifier: tc
-       name: tc
-       url: /tc/
-       weight: 40
-      - identifier: 1bac
-       name: 1bac
-       url: /1bac/
-       weight: 50
-      - identifier: 2bac
-       name: 2bac
-       url: /2bac/
-       weight: 60
+       weight: 2
+     
