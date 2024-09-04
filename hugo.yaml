@@ -3,6 +3,5 @@ languageCode: en-us
 title: Exercices.ma
 theme: PaperMod
 params:
-  theme: dark
-  themeToggle: false
-
+  defaultTheme: dark
+  disableThemeToggle: true
