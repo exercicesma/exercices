@@ -2,7 +2,7 @@
 title: " Exercices.ma "
 description: "Les exercices de mathematique au Maroc "
 ---
-
+#  les exercices de mathématiques pour le collège et le lycée
 {{< image src="../images/1.webp" alt="1ac" link="/1ac/" width="500" height="250" >}}
 
 {{< image src="../images/2.webp" alt="2ac" link="/2ac/" width="500" height="250" >}}
