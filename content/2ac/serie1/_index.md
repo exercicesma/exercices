@@ -1,6 +1,6 @@
 ---
 title: "Serie 1 / 2AC: les nombres rationnels introduction et comparaison"
-description: "Welcome to Class cours1 "
+description: "."
 draft: false
 ---
 
