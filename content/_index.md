@@ -1,8 +1,10 @@
 ---
 title: " Exercices.ma "
-description: "Les exercices de mathematique au Maroc "
+description: "Les exercices de mathematiques au Maroc "
 ---
-#  les exercices de mathématiques pour le collège et le lycée.
+#les exercices de mathématiques au Maroc.
+#Pour accéder à notre groupe Telegram, contactez-nous via t.me/exercicesma ou directement sur Telegram au 0707919591.
+
 {{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500" height="260" >}}
 
 {{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="500" height="260" >}}
