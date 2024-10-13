@@ -5,6 +5,6 @@ draft: false
 ---
 
 
-- [Material 1](https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=108s)
-- [Material 2](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
+- [serie pdf](https://drive.google.com/file/d/1TN7TpjKWVV9hx4tWZ17dj9d0h7avnZA5/view?usp=drive_link)
+- [serie image telegram](https://t.me/c/2290950266/3)
 
