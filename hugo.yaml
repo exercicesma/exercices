@@ -2,4 +2,8 @@ baseURL:
 languageCode: en-us
 title: Exercices.ma
 theme: PaperMod
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+   
 
