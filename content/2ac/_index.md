@@ -1,5 +1,5 @@
 ---
 title: " 2AC "
-description: "Welcome to Class 2AC"
+description: "Sélectionnez votre série d'exercices"
 draft: false
 ---
