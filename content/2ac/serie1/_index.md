@@ -4,7 +4,6 @@ description: "Introduction et comparaison des nombres rationnels."
 draft: false
 ---
 
-# Série 1 / 2AC : Les Nombres Rationnels - Introduction et Comparaison
 
 ## Liens vers la série complète
 
