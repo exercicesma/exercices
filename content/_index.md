@@ -2,7 +2,9 @@
 title: " Exercices.ma "
 description: "Les exercices de mathematiques au Maroc "
 ---
-# Pour accéder à notre groupe Telegram, contactez-nous via https://t.me/exercicesma.
+# Pour accéder à notre groupe Telegram. 
+# contactez-nous via 
+[![Telegram Icon](https://cdn-icons-png.flaticon.com/512/2111/2111646.png)](https://t.me/exercicesma)
 
 {{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500" height="260" >}}
 
