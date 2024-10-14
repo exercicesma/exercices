@@ -12,14 +12,13 @@ draft: false
 
 ## Exercices
 
-| Exercice | Lien vers l'exercice | Lien vers la solution |
-|----------|----------------------|-----------------------|
-| Exercice 1 | [Voir l'exercice 1](#exercice1) | [Voir la solution](#solution1) |
-| Exercice 2 | [Voir l'exercice 2](#exercice2) | [Voir la solution](#solution2) |
-| Exercice 3 | [Voir l'exercice 3](#exercice3) | [Voir la solution](#solution3) |
-| Exercice 4 | [Voir l'exercice 4](#exercice4) | [Voir la solution](#solution4) |
-| Exercice 5 | [Voir l'exercice 5](#exercice5) | [Voir la solution](#solution5) |
-
+| Lien vers l'exercice | Lien vers la solution |
+|----------------------|-----------------------|
+| [exercice 1](#exercice1) | [la solution 1](#solution1) |
+| [exercice 2](#exercice2) | [la solution 2](#solution2) |
+| [exercice 3](#exercice3) | [la solution 3](#solution3) |
+| [exercice 4](#exercice4) | [la solution 4](#solution4) |
+| [exercice 5](#exercice5) | [la solution 5](#solution5) |
 
 # Pour nous contacter
 
