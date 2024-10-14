@@ -28,7 +28,7 @@ Exercices.ma est un site dédié à fournir des exercices de mathématiques pour
 Rejoignez-nous sur les réseaux sociaux :
 
 [![Instagram Icon](https://cdn-icons-png.flaticon.com/64/2111/2111463.png)](https://www.instagram.com/exercices.ma)
-[![Facebook Icon](https://cdn-icons-png.flaticon.com/64/733/733547.png)](https://www.facebook.com/exercices.ma)
+[![Facebook Icon](https://cdn-icons-png.flaticon.com/64/733/733547.png)]([https://www.facebook.com/exercices.ma](https://web.facebook.com/profile.php?id=61567250277720))
 
 Ou contactez-nous directement via :
 
