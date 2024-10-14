@@ -1,8 +1,11 @@
 ---
-title: " Exercices.ma "
-description: "Les exercices de mathematiques au Maroc "
+title: "Exercices.ma"
+description: "Des exercices de mathématiques pour tous les niveaux secondaires et supérieurs au Maroc."
 ---
-# les exercices de mathématiques au Maroc. 
+
+# Bienvenue sur Exercices.ma
+
+**Sélectionnez votre niveau scolaire :**
 
 {{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500" height="260" >}}
 
@@ -16,6 +19,12 @@ description: "Les exercices de mathematiques au Maroc "
 
 {{< image src="../images/2bac.png" alt="2bac" link="/2bac/" width="500" height="260" >}}
 
-# Pour accéder à notre groupe Telegram. 
-# contactez-nous via 
+# À propos de Exercices.ma
+
+Exercices.ma est un site dédié à fournir des exercices de mathématiques pour les niveaux secondaires et supérieurs au Maroc. Que vous soyez au collège ou au lycée, vous trouverez ici des exercices adaptés à votre niveau, pour vous aider à réussir dans vos études.
+
+# Pour nous contacter
+
+Vous pouvez nous rejoindre via notre groupe Telegram :
+
 [![Telegram Icon](https://cdn-icons-png.flaticon.com/64/2111/2111646.png)](https://t.me/exercicesma)
