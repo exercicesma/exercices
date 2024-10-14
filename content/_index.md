@@ -25,6 +25,12 @@ Exercices.ma est un site dédié à fournir des exercices de mathématiques pour
 
 # Pour nous contacter
 
-Vous pouvez nous rejoindre via notre groupe Telegram :
+Rejoignez-nous sur les réseaux sociaux :
 
+[![Instagram Icon](https://cdn-icons-png.flaticon.com/64/2111/2111463.png)](https://www.instagram.com/exercices.ma)
+[![Facebook Icon](https://cdn-icons-png.flaticon.com/64/733/733547.png)](https://www.facebook.com/exercices.ma)
+
+Ou contactez-nous directement via :
+
+[![WhatsApp Icon](https://cdn-icons-png.flaticon.com/64/733/733585.png)](https://wa.me/212707919591)
 [![Telegram Icon](https://cdn-icons-png.flaticon.com/64/2111/2111646.png)](https://t.me/exercicesma)
