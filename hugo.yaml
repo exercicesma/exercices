@@ -9,9 +9,9 @@ params:
   ShowShareButtons: true
   defaultTheme: auto
   socialIcons: # optional
-    - name: "<instagram>"
-      url: "<https://www.instagram.com/exercices.ma>"
-    - name: "<facebook>"
+    - name: instagram
+      url: "https://www.instagram.com/exercices.ma"
+    - name: facebook
       url: "<https://web.facebook.com/profile.php?id=61567250277720>"
 outputs:
   home:
