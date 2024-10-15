@@ -10,7 +10,7 @@ params:
   ShowBreadCrumbs: true
   ShowShareButtons: true
   profileMode:
-    enabled: true
+    enabled: false
 
   socialIcons: # Icônes des réseaux sociaux
     - name: "Instagram"
