@@ -8,9 +8,9 @@ params:
   defaultTheme: auto
   socialIcons: # optional
     - name: "<instagram>"
-      url: "<link>"
+      url: "<https://www.instagram.com/exercices.ma>"
     - name: "<facebook>"
-      url: "<link2>"
+      url: "<https://web.facebook.com/profile.php?id=61567250277720>"
    main:
      - identifier: 1ac
        name: 1ac
