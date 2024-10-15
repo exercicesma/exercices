@@ -1,3 +1,6 @@
-<a href="{{ .Get "link" }}" style="background-color: {{ .Get "color" }}; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; text-align: center; font-size: 16px;">
-    {{ .Get "text" }}
-</a>
+<div class="button-container">
+    <a href="{{ .Get "link" }}" class="responsive-button" style="background-color: {{ .Get "color" }};">
+        {{ .Get "text" }}
+    </a>
+</div>
+
