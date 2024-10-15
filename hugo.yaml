@@ -3,7 +3,13 @@ languageCode: en-us
 title: Exercices.ma
 theme: PaperMod
 params:
-  defaultTheme: light
-  disableThemeToggle: true
+  #defaultTheme: light
+  #disableThemeToggle: true
+  defaultTheme: auto
+  socialIcons: # optional
+    - name: "<instagram>"
+      url: "<link>"
+    - name: "<facebook>"
+      url: "<link2>"
    
 
