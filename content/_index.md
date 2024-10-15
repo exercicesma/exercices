@@ -6,21 +6,16 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 # Bienvenue sur Exercices.ma
 
 **Sélectionnez votre niveau scolaire :**
-<div class="button-row">
-    {{< button link="/1ac/" color="#3498db" text="1ère Année Collège" >}}
-    {{< button link="/2ac/" color="#e74c3c" text="2ème Année Collège" >}}
-    {{< button link="/3ac/" color="#2ecc71" text="3ème Année Collège" >}}
-</div>
 
-<div class="button-row">
-    {{< button link="/tc/" color="#f1c40f" text="Tronc Commun" >}}
-    {{< button link="/1bac_ex/" color="#9b59b6" text="1ère Année Bac" >}}
-    {{< button link="/1bac_sm/" color="#e67e22" text="1ère Année Bac SM" >}}
+<div class="button-container">
+    <button class="responsive-button" onclick="window.location.href='/1ac/'">1ère Année Collège</button>
+    <button class="responsive-button" onclick="window.location.href='/2ac/'">2ème Année Collège</button>
+    <button class="responsive-button" onclick="window.location.href='/3ac/'">3ème Année Collège</button>
 </div>
-
-<div class="button-row">
-    {{< button link="/2bac_ex/" color="#1abc9c" text="2ème Année Bac EX" >}}
-    {{< button link="/2bac_sm/" color="#34495e" text="2ème Année Bac SM" >}}
+<div class="button-container">
+    <button class="responsive-button" onclick="window.location.href='/tc/'">Tronc Commun</button>
+    <button class="responsive-button" onclick="window.location.href='/1bac_ex/'">1ère Année Bac</button>
+    <button class="responsive-button" onclick="window.location.href='/1bac_sm/'">1ère Année Bac SM</button>
 </div>
 
 # À propos de Exercices.ma
