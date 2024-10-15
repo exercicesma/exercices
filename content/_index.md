@@ -7,13 +7,13 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 
 **Sélectionnez votre niveau scolaire :**
 
-{{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500" height="260" >}}
+{{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500px" height="260px" >}}
 
-{{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="500" height="260" >}}
+{{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="500px" height="260px" >}}
 
-{{< image src="../images/3ac.png" alt="3ac" link="/3ac/" width="500" height="260" >}}
+{{< image src="../images/3ac.png" alt="3ac" link="/3ac/" width="500px" height="260px" >}}
 
-{{< image src="../images/tc.png" alt="tc" link="/tc/" width="500" height="260" >}}
+{{< image src="../images/tc.png" alt="tc" link="/tc/" width="500px" height="260px" >}}
 
 {{< image src="../images/1bac_ex.png" alt="1bac" link="/1bac_ex/" width="500" height="260" >}}
 
