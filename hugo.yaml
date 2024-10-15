@@ -11,25 +11,6 @@ params:
   ShowShareButtons: true
   profileMode:
     enabled: true
-    title: "exercices.ma" # optional default will be site title
-    subtitle: "Des exercices de mathématiques pour les niveaux collège et lycée au Maroc."
-    buttons:
-      - name: 1ac
-        url: "/1ac/"
-      - name: 2ac
-        url: "/2ac/"
-      - name: 3ac
-        url: "/3ac/"
-      - name: tc
-        url: "/tc/"
-      - name: 1bac ex
-        url: "/1bac_ex/"
-      - name: 1bac sm
-        url: "/1bac_sm/"
-      - name: 2bac ex
-        url: "/2bac_ex/"
-      - name: 2bac sm
-        url: "/2bac_sm/"
 
   socialIcons: # Icônes des réseaux sociaux
     - name: "Instagram"
