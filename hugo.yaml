@@ -9,15 +9,3 @@ params:
   #disableThemeToggle: true
   ShowBreadCrumbs: true
   ShowShareButtons: true
-  profileMode:
-    enabled: false
-
-  socialIcons: # Icônes des réseaux sociaux
-    - name: "Instagram"
-      url: "https://instagram.com/exercicesma"
-    - name: "Facebook"
-      url: "https://facebook.com/monprofil"
-    - name: "Telegram"
-      url: "https://t.me/exercicesma"
-    - name: "WhatsApp"
-      url: "https://wa.me/212707919591"
