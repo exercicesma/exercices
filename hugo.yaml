@@ -11,5 +11,14 @@ params:
       url: "<link>"
     - name: "<facebook>"
       url: "<link2>"
+   main:
+     - identifier: 1ac
+       name: 1ac
+       url: /1ac/
+       weight: 1
+     - identifier: 2ac
+       name: 2ac
+       url: /2ac/
+       weight: 2
    
 
