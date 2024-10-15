@@ -4,7 +4,7 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 ---
 <style>
 body {
-    background-color: #f0f0f0;
+    background-color: #254441;
 }
 </style>
 # Bienvenue sur Exercices.ma
