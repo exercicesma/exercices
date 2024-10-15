@@ -5,6 +5,7 @@ theme: PaperMod
 params:
   #defaultTheme: light
   #disableThemeToggle: true
+  ShowShareButtons: true
   defaultTheme: auto
   socialIcons: # optional
     - name: "<instagram>"
