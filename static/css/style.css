@@ -1,18 +1,21 @@
-.button-container {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 15px;
+/* General Button Styling */
+button.responsive-button {
+    background-color: var(--primary); /* Button color from your defined CSS variables */
+    color: var(--theme); /* Text color */
+    padding: 12px 24px;
+    border: none;
+    border-radius: var(--radius); /* Using your root radius */
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    width: 100%; /* Ensure buttons take full width by default */
+    margin: 10px auto; /* Center them */
+    max-width: 200px; /* Prevent button from growing too large */
+    transition: background-color 0.3s ease; /* Optional: Add hover effects */
 }
 
-.responsive-button {
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    text-align: center;
-    width: 100%;
-    max-width: 200px;
-    font-size: 16px;
+button.responsive-button:hover {
+    background-color: var(--secondary); /* Button hover color */
 }
 
 /* For mobile: one button per line */
@@ -21,28 +24,23 @@
         display: block;
         text-align: center;
     }
-    .responsive-button {
+    button.responsive-button {
+        width: 90%; /* Adjust width to make sure it fits well on mobile */
+        max-width: 100%;
         margin: 10px auto;
-        width: 80%;
     }
 }
 
-/* For desktop: three buttons per line */
+/* For larger screens: three buttons per line */
 @media (min-width: 769px) {
     .button-container {
-        flex: 1 1 calc(33.333% - 20px);
-        max-width: calc(33.333% - 20px);
-    }
-    .responsive-button {
-        margin: 10px;
-        width: 100%;
-    }
-    
-    /* To ensure equal spacing between buttons */
-    .button-row {
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
-        margin-bottom: 30px;
+    }
+    button.responsive-button {
+        flex: 1 1 calc(33.333% - 20px); /* Three buttons per row */
+        max-width: calc(33.333% - 20px);
+        margin: 10px;
     }
 }
