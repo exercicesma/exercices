@@ -2,12 +2,27 @@ baseURL:
 languageCode: en-us
 title: Exercices.ma
 theme: PaperMod
+  
+
 params:
   defaultTheme: dark
   #disableThemeToggle: true
   ShowBreadCrumbs: true
   ShowShareButtons: true
-  
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "<image link>" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
+
   socialIcons: # Icônes des réseaux sociaux
     - name: "Instagram"
       url: "https://instagram.com/exercicesma"
@@ -19,4 +34,3 @@ params:
       url: "https://t.me/exercicesma"
     - name: "WhatsApp"
       url: "https://wa.me/212707919591"
-
