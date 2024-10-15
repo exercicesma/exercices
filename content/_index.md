@@ -15,8 +15,7 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
   {{< image src="../images/1bac_ex.png" alt="1bac_ex" link="/1bac_ex/" width="501px" height="261px" style="margin-right: 10px;" >}}
   {{< image src="../images/1bac_sm.png" alt="1bac_sm" link="/1bac_sm/" width="501px" height="261px" style="margin-right: 10px;" >}}
   {{< image src="../images/2bac_ex.png" alt="2bac_ex" link="/2bac_ex/" width="501px" height="261px" style="margin-right: 10px;" >}}
-  {{< image src="../images/2bac_sm.png" alt="2bac_sm" link="/2bac_sm/" width="501px" height="261px"" >}}
-
+  {{< image src="../images/2bac_sm.png" alt="1bac_sm" link="/2bac_sm/" width="501px" height="261px" style="margin-right: 10px;" >}}
 
 ---
 
