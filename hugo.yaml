@@ -8,5 +8,7 @@ params:
   #disableThemeToggle: true
   ShowBreadCrumbs: true
   ShowShareButtons: true
-
+assets:
+  customCSS:
+    - css/custom.css
 
