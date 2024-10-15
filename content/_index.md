@@ -7,7 +7,7 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 
 **Sélectionnez votre niveau scolaire :**
 
-<div style="display: inline;">
+
   {{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="250px" height="130px" style="margin-right: 10px;" >}}
   {{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="250px" height="130px" style="margin-right: 10px;" >}}
   {{< image src="../images/3ac.png" alt="3ac" link="/3ac/" width="250px" height="130px" style="margin-right: 10px;" >}}
@@ -16,7 +16,7 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
   {{< image src="../images/1bac_sm.png" alt="1bac_sm" link="/1bac_sm/" width="250px" height="130px" style="margin-right: 10px;" >}}
   {{< image src="../images/2bac_ex.png" alt="2bac_ex" link="/2bac_ex/" width="250px" height="130px" style="margin-right: 10px;" >}}
   {{< image src="../images/2bac_sm.png" alt="2bac_sm" link="/2bac_sm/" width="250px" height="130px" >}}
-</div>
+
 
 ---
 
