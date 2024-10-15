@@ -19,8 +19,6 @@ draft: false
 
 ## ✏️ **Exercices**
 
-<div style="text-align: center;">
-  
 | 📄 **Lien vers l'exercice** | 🔑 **Lien vers la solution** |
 |-----------------------------|------------------------------|
 | [Exercice 1](#exercice1)     | [Solution 1](#solution1)     |
@@ -29,34 +27,29 @@ draft: false
 | [Exercice 4](#exercice4)     | [Solution 4](#solution4)     |
 | [Exercice 5](#exercice5)     | [Solution 5](#solution5)     |
 
-</div>
-
 ---
 
 ## 📞 **Pour nous contacter**
 
-<div style="text-align: center;">
 Rejoignez-nous sur les réseaux sociaux :
-</div>
 
-<div style="text-align: center;">
-  <a href="https://www.instagram.com/exercicesma" style="margin-right: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/64/2111/2111463.png" alt="Instagram Icon" width="32px">
+<div style="display: inline;">
+  <a href="https://www.instagram.com/exercicesma">
+    <img src="https://cdn-icons-png.flaticon.com/64/2111/2111463.png" alt="Instagram Icon" width="32px" style="margin-right: 10px;">
   </a>
-  <a href="https://www.facebook.com/exercicesma" style="margin-right: 15px;">
+  <a href="https://www.facebook.com/exercicesma">
     <img src="https://cdn-icons-png.flaticon.com/64/733/733547.png" alt="Facebook Icon" width="32px">
   </a>
 </div>
 
-<div style="text-align: center;">
 Ou contactez-nous directement via :
-</div>
 
-<div style="text-align: center;">
-  <a href="https://wa.me/212600000000" style="margin-right: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/64/733/733585.png" alt="WhatsApp Icon" width="32px">
+<div style="display: inline;">
+  <a href="https://wa.me/212600000000">
+    <img src="https://cdn-icons-png.flaticon.com/64/733/733585.png" alt="WhatsApp Icon" width="32px" style="margin-right: 10px;">
   </a>
   <a href="https://t.me/exercicesma">
     <img src="https://cdn-icons-png.flaticon.com/64/2111/2111646.png" alt="Telegram Icon" width="32px">
   </a>
 </div>
+
