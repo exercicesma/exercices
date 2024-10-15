@@ -3,9 +3,36 @@ languageCode: en-us
 title: Exercices.ma
 theme: PaperMod
   
+# Enable different outputs for the home page, including JSON for search functionality
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # JSON output is required for search
 
 params:
   defaultTheme: light
   #disableThemeToggle: true
   ShowBreadCrumbs: true
   ShowShareButtons: true
+  fuseOpts:
+    isCaseSensitive: false    # Makes the search case insensitive
+    shouldSort: true          # Sorts the search results by relevance
+    location: 0               # Determines the approximate position in the text where the search term is found
+    distance: 1000            # Maximum distance allowed between search term and match
+    threshold: 0.4            # Lower value means stricter matching (0.0 is an exact match)
+    minMatchCharLength: 0     # Minimum number of characters required to match
+    keys:                     # List of fields to be searched
+      - "title"
+      - "permalink"
+      - "summary"
+      - "content"
+    # Optional: limit the number of search results
+    # limit: 10 
+
+menu:
+  main:
+    - identifier: search
+      name: "Search"
+      url: "/search/"
+      weight: 5  # Adjust the weight to control where the menu item appears
