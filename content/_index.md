@@ -15,9 +15,13 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 
 {{< image src="../images/tc.png" alt="tc" link="/tc/" width="500" height="260" >}}
 
-{{< image src="../images/1bac.png" alt="1bac" link="/1bac/" width="500" height="260" >}}
+{{< image src="../images/1bac_ex.png" alt="1bac" link="/1bac_ex/" width="500" height="260" >}}
 
-{{< image src="../images/2bac.png" alt="2bac" link="/2bac/" width="500" height="260" >}}
+{{< image src="../images/1bac_sm.png" alt="1bac" link="/1bac_sm/" width="500" height="260" >}}
+
+{{< image src="../images/2bac_ex.png" alt="2bac" link="/2bac_ex/" width="500" height="260" >}}
+
+{{< image src="../images/2bac_sm.png" alt="2bac" link="/2bac_sm/" width="500" height="260" >}}
 
 # À propos de Exercices.ma
 
