@@ -7,17 +7,21 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 
 **Sélectionnez votre niveau scolaire :**
 
-<div class="button-container">
-    <button class="responsive-button" onclick="window.location.href='/1ac/'">1ère Année Collège</button>
-    <button class="responsive-button" onclick="window.location.href='/2ac/'">2ème Année Collège</button>
-    <button class="responsive-button" onclick="window.location.href='/3ac/'">3ème Année Collège</button>
-</div>
-<div class="button-container">
-    <button class="responsive-button" onclick="window.location.href='/tc/'">Tronc Commun</button>
-    <button class="responsive-button" onclick="window.location.href='/1bac_ex/'">1ère Année Bac</button>
-    <button class="responsive-button" onclick="window.location.href='/1bac_sm/'">1ère Année Bac SM</button>
-</div>
+{{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500" height="260" >}}
 
+{{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="500" height="260" >}}
+
+{{< image src="../images/3ac.png" alt="3ac" link="/3ac/" width="500" height="260" >}}
+
+{{< image src="../images/tc.png" alt="tc" link="/tc/" width="500" height="260" >}}
+
+{{< image src="../images/1bac_ex.png" alt="1bac" link="/1bac_ex/" width="500" height="260" >}}
+
+{{< image src="../images/1bac_sm.png" alt="1bac" link="/1bac_sm/" width="500" height="260" >}}
+
+{{< image src="../images/2bac_ex.png" alt="2bac" link="/2bac_ex/" width="500" height="260" >}}
+
+{{< image src="../images/2bac_sm.png" alt="2bac" link="/2bac_sm/" width="500" height="260" >}}
 # À propos de Exercices.ma
 
 Exercices.ma est un site dédié à fournir des exercices de mathématiques pour les niveaux collège et lycée au Maroc. Vous trouverez ici des exercices adaptés à chaque niveau, pour vous aider à exceller dans vos études et à bien vous préparer pour les examens.
