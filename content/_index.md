@@ -2,7 +2,11 @@
 title: "Exercices.ma"
 description: "Des exercices de mathématiques pour les niveaux collège et lycée au Maroc."
 ---
-
+<style>
+body {
+    background-color: #f0f0f0;
+}
+</style>
 # Bienvenue sur Exercices.ma
 
 **Sélectionnez votre niveau scolaire :**
