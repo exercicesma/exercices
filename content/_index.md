@@ -7,17 +7,14 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 
 **Sélectionnez votre niveau scolaire :**
 
-{{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="500" height="260" >}}
-
-{{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="500" height="260" >}}
-
-{{< image src="../images/3ac.png" alt="3ac" link="/3ac/" width="500" height="260" >}}
-
-{{< image src="../images/tc.png" alt="tc" link="/tc/" width="500" height="260" >}}
-
-{{< image src="../images/1bac.png" alt="1bac" link="/1bac/" width="500" height="260" >}}
-
-{{< image src="../images/2bac.png" alt="2bac" link="/2bac/" width="500" height="260" >}}
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/1ac/" class="btn" style="display: inline-block; margin: 10px; padding: 15px 30px; background-color: #7B1FA2; color: white; text-decoration: none; border-radius: 5px;">1ère Année Collège</a>
+  <a href="/2ac/" class="btn" style="display: inline-block; margin: 10px; padding: 15px 30px; background-color: #8E24AA; color: white; text-decoration: none; border-radius: 5px;">2ème Année Collège</a>
+  <a href="/3ac/" class="btn" style="display: inline-block; margin: 10px; padding: 15px 30px; background-color: #9C27B0; color: white; text-decoration: none; border-radius: 5px;">3ème Année Collège</a>
+  <a href="/tc/" class="btn" style="display: inline-block; margin: 10px; padding: 15px 30px; background-color: #AB47BC; color: white; text-decoration: none; border-radius: 5px;">Tronc Commun</a>
+  <a href="/1bac/" class="btn" style="display: inline-block; margin: 10px; padding: 15px 30px; background-color: #BA68C8; color: white; text-decoration: none; border-radius: 5px;">1ère Bac</a>
+  <a href="/2bac/" class="btn" style="display: inline-block; margin: 10px; padding: 15px 30px; background-color: #CE93D8; color: white; text-decoration: none; border-radius: 5px;">2ème Bac</a>
+</div>
 
 # À propos de Exercices.ma
 
@@ -34,3 +31,4 @@ Ou contactez-nous directement via :
 
 [![WhatsApp Icon](https://cdn-icons-png.flaticon.com/64/733/733585.png)](https://wa.me/212707919591)
 [![Telegram Icon](https://cdn-icons-png.flaticon.com/64/2111/2111646.png)](https://t.me/exercicesma)
+
