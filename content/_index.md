@@ -7,21 +7,21 @@ description: "Des exercices de mathématiques pour les niveaux collège et lycé
 
 **Sélectionnez votre niveau scolaire :**
 
-{{< image src="../images/1ac.png" alt="1ac" link="/1ac/" width="501" height="260" >}}
+{{< image src="../images/1.png" alt="1ac" link="/1ac/" width="500" height="281" >}}
 
-{{< image src="../images/2ac.png" alt="2ac" link="/2ac/" width="501" height="260" >}}
+{{< image src="../images/2.png" alt="2ac" link="/2ac/" width="500" height="281" >}}
 
-{{< image src="../images/3ac.png" alt="3ac" link="/3ac/" width="501" height="260" >}}
+{{< image src="../images/3.png" alt="3ac" link="/3ac/" width="500" height="281" >}}
 
-{{< image src="../images/tc.png" alt="tc" link="/tc/" width="501" height="260" >}}
+{{< image src="../images/4.png" alt="tc" link="/tc/" width="500" height="281" >}}
 
-{{< image src="../images/1bac_ex.png" alt="1bac" link="/1bac_ex/" width="501" height="260" >}}
+{{< image src="../images/5.png" alt="1bac" link="/1bac_ex/" width="500" height="281" >}}
 
-{{< image src="../images/1bac_sm.png" alt="1bac" link="/1bac_sm/" width="501" height="260" >}}
+{{< image src="../images/6.png" alt="1bac" link="/1bac_sm/" width="500" height="281" >}}
 
-{{< image src="../images/2bac_ex.png" alt="2bac" link="/2bac_ex/" width="501" height="260" >}}
+{{< image src="../images/7.png" alt="2bac" link="/2bac_ex/" width="500" height="281" >}}
 
-{{< image src="../images/2bac_sm.png" alt="2bac" link="/2bac_sm/" width="501" height="260" >}}
+{{< image src="../images/8.png" alt="2bac" link="/2bac_sm/" width="500" height="281" >}}
 
 # À propos de Exercices.ma
 
