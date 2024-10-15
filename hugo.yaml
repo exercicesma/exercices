@@ -8,14 +8,15 @@ params:
   ShowBreadCrumbs: true
   ShowShareButtons: true
   
-  socialIcons: # optional
-    - name: "instagram"
-      url: "https://www.instagram.com/exercices.ma"
-    - name: "facebook"
-      url: "https://web.facebook.com/profile.php?id=61567250277720"
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
+  socialIcons: # Icônes des réseaux sociaux
+    - name: "Instagram"
+      url: "https://instagram.com/exercicesma"
+    - name: "Facebook"
+      url: "https://facebook.com/monprofil"
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/monprofil"
+    - name: "Telegram"
+      url: "https://t.me/exercicesma"
+    - name: "WhatsApp"
+      url: "https://wa.me/212707919591"
 
