@@ -11,4 +11,7 @@ params:
 assets:
   customCSS:
     - css/custom.css
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
