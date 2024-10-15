@@ -1,0 +1,48 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.responsive-button {
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+    max-width: 200px;
+    font-size: 16px;
+}
+
+/* For mobile: one button per line */
+@media (max-width: 768px) {
+    .button-container {
+        display: block;
+        text-align: center;
+    }
+    .responsive-button {
+        margin: 10px auto;
+        width: 80%;
+    }
+}
+
+/* For desktop: three buttons per line */
+@media (min-width: 769px) {
+    .button-container {
+        flex: 1 1 calc(33.333% - 20px);
+        max-width: calc(33.333% - 20px);
+    }
+    .responsive-button {
+        margin: 10px;
+        width: 100%;
+    }
+    
+    /* To ensure equal spacing between buttons */
+    .button-row {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+}
