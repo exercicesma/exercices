@@ -5,6 +5,7 @@ theme: PaperMod
 params:
   #defaultTheme: light
   #disableThemeToggle: true
+  ShowBreadCrumbs: true
   ShowShareButtons: true
   defaultTheme: auto
   socialIcons: # optional
@@ -12,14 +13,14 @@ params:
       url: "<https://www.instagram.com/exercices.ma>"
     - name: "<facebook>"
       url: "<https://web.facebook.com/profile.php?id=61567250277720>"
-   main:
-     - identifier: 1ac
-       name: 1ac
-       url: /1ac/
-       weight: 1
-     - identifier: 2ac
-       name: 2ac
-       url: /2ac/
-       weight: 2
+main:
+  - identifier: 1ac
+      name: 1ac
+      url: /1ac/
+      weight: 1
+  - identifier: 2ac
+      name: 2ac
+      url: /2ac/
+      weight: 2
    
 
