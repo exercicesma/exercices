@@ -34,5 +34,5 @@ menu:
   main:
     - identifier: recherche
       name: "Recherche"
-      url: "/recherche/"
+      url: "/search.fr/"
       weight: 5  # Ajustez le poids pour contrôler où l'élément apparaît dans le menu
