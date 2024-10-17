@@ -7,11 +7,12 @@ date: 2024-10-17
 # Inscription au Pack d'Exercices 📚
 
 Obtenez un accès exclusif à notre pack contenant :
-
-- Livres d'exercices
-- Devoirs et examens corrigés
-- Olympiades de mathématiques
-- Solutions vidéo détaillées 🎥
+- **Résumé de Cours** 
+- **Livres d'exercices corrigés**
+- **Devoirs et examens corrigés**
+- **Examens Régionaux et Nationaux corrigés**
+- **Olympiades de mathématiques**
+- **Solutions vidéo détaillées 🎥**
 
 ## Comment s'inscrire ?
 
