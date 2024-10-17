@@ -1,7 +1,7 @@
 ---
 title: "Série 1 / 2AC: Les Nombres Rationnels - Introduction et Comparaison"
 description: "Introduction et comparaison des nombres rationnels."
-draft: false
+draft: true
 ---
 
 # 📘 **Série 1 / 2AC: Les Nombres Rationnels**
