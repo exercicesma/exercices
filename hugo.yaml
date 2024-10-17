@@ -7,7 +7,7 @@ params:
   defaultTheme: light
   disableThemeToggle: true
   ShowBreadCrumbs: true
-  ShowShareButtons: true
+  #ShowShareButtons: true
 menu:
   main:
     - name: "Accueil"
