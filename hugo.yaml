@@ -8,3 +8,14 @@ params:
   disableThemeToggle: true
   ShowBreadCrumbs: true
   ShowShareButtons: true
+menu:
+  main:
+    - name: "Accueil"
+      url: "/"
+      weight: 1
+    - name: "À propos"
+      url: "/about/"
+      weight: 2  
+    - name: "Inscription"
+      url: "/inscription/"
+      weight: 3
