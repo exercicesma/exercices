@@ -5,13 +5,6 @@ theme: PaperMod
 
 params:
   defaultTheme: light
-  #disableThemeToggle: true
+  disableThemeToggle: true
   ShowBreadCrumbs: true
   ShowShareButtons: true
-assets:
-  customCSS:
-    - css/custom.css
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
