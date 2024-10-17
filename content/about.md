@@ -4,8 +4,6 @@ description: "Découvrez qui nous sommes et notre mission."
 date: 2024-10-17
 ---
 
-# À propos de Exercices.ma 📘
-
 Bienvenue sur **Exercices.ma**, une plateforme dédiée à offrir des ressources éducatives de haute qualité pour les élèves du collège et du lycée au Maroc. Notre objectif est de rendre les mathématiques accessibles à tous et d'aider les élèves à réussir leurs examens.
 
 ## Notre mission 🎯
